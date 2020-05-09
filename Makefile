@@ -1,5 +1,5 @@
 REPO_REVISION=06abcdf888c224df6ea2883480e155a468e5d3c7
-VERSION=0.2.10.2-$(shell date '+%Y%m%d')
+VERSION=0.2.22.1-$(shell date '+%Y%m%d')
 
 LICENSE:
 	curl -s -L https://github.com/philippe44/AirConnect/raw/${REPO_REVISION}/LICENSE -O
